@@ -1,5 +1,6 @@
 """
-7. Write a program able to play the "Guess the number"-game, where the number to be guessed is randomly chosen between 1 and 20. (Source: http://inventwithpython.com) This is how it should work when run in a terminal:
+7. Write a program able to play the "Guess the number"-game, where the number to be guessed is randomly
+chosen between 1 and 20. (Source: http://inventwithpython.com) This is how it should work when run in a terminal:
 Output of the program (example):
 Hello! What is your name?
 Oak
