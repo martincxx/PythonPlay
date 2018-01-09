@@ -1,1 +1,1 @@
-[Numpy] (http://cs231n.github.io/python-numpy-tutorial/) is the first part of the contents provided by the Stanford CS class [CS231n: Convolutional Neural Networks for Visual Recognition.](http://cs231n.github.io/)
+[Numpy](http://cs231n.github.io/python-numpy-tutorial/) is the first part of the contents provided by the Stanford CS class [CS231n: Convolutional Neural Networks for Visual Recognition.](http://cs231n.github.io/)
