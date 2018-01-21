@@ -1,0 +1,173 @@
+martin@martin-Mint-PC ~/Documents $ python StudentPatterns.py
+Student 1 has Final grade: A
+98
+94
+69
+82
+85.75
+Student 2 has Final grade: A
+82
+91
+89
+89
+87.75
+Student 3 has Final grade: A
+98
+91
+98
+96
+95.75
+Student 4 has Final grade: A
+82
+89
+98
+93
+90.5
+Student 5 has Final grade: A
+76
+97
+85
+90
+87.0
+Student 6 has Final grade: A
+87
+92
+75
+94
+87.0
+martin@martin-Mint-PC ~/Documents $ 
+martin@martin-Mint-PC ~/Documents $ python StudentPatterns.py
+martin@martin-Mint-PC ~/Documents $ python StudentPatterns.py
+Student 1 has Final grade: D
+89
+34
+43
+38
+51.0
+Student 2 has Final grade: D
+66
+85
+7
+47
+51.25
+Student 3 has Final grade: D
+77
+1
+47
+43
+42.0
+Student 4 has Final grade: D
+45
+46
+20
+56
+41.75
+Student 5 has Final grade: D
+3
+93
+4
+34
+33.5
+Student 6 has Final grade: D
+14
+61
+55
+6
+34.0
+
+
+martin@martin-Mint-PC ~/Documents $ python StudentPatterns.py
+Student 1 has Final grade: D
+D = 51
+D = 42
+C = 65
+C = 59
+Student 2 has Final grade: D
+D = 9
+A = 94
+D = 50
+D = 31
+Student 3 has Final grade: D
+D = 23
+D = 43
+A = 90
+D = 34
+Student 4 has Final grade: D
+A = 93
+D = 2
+D = 6
+D = 0
+Student 5 has Final grade: D
+A = 88
+D = 41
+C = 67
+D = 22
+Student 6 has Final grade: D
+A = 92
+C = 63
+D = 31
+D = 27
+martin@martin-Mint-PC ~/Documents $ 
+martin@martin-Mint-PC ~/Documents $ python StudentPatterns.py
+Student 1 has Final grade: D
+D = 26
+A = 86
+D = 3
+D = 23
+Student 2 has Final grade: D
+D = 51
+C = 57
+C = 65
+D = 5
+Student 3 has Final grade: D
+D = 14
+B = 83
+D = 8
+A = 99
+Student 4 has Final grade: D
+D = 48
+B = 84
+D = 43
+D = 15
+Student 5 has Final grade: D
+D = 18
+D = 45
+D = 46
+D = 45
+Student 6 has Final grade: D
+B = 83
+D = 53
+D = 8
+D = 30
+martin@martin-Mint-PC ~/Documents $ 
+Student 1 has Final grade: A
+B = 85
+A = 92
+B = 82
+A = 97
+Student 2 has Final grade: A
+A = 87
+A = 96
+A = 86
+B = 80
+Student 3 has Final grade: A
+B = 83
+B = 85
+A = 86
+A = 88
+Student 4 has Final grade: A
+A = 98
+A = 98
+C = 63
+B = 83
+Student 5 has Final grade: A
+A = 91
+A = 93
+B = 81
+A = 97
+Student 6 has Final grade: A
+A = 99
+A = 100
+B = 81
+A = 87
+
